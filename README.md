@@ -4,12 +4,16 @@
 
 **A tiny, lightweight GPU monitor for your Windows desktop.**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 The three numbers you keep checking in Task Manager → Performance → GPU —
 **3D utilization, dedicated VRAM, temperature** — on one small card that stays out of your way.
 
 ![TinyGpuMon widget](img/widget.png)
 
 **Download:** [`TinyGpuMon-1.0-win-x64.zip`](https://github.com/ParaHarz/TinyGpuMon/releases/download/v1.0/TinyGpuMon-1.0-win-x64.zip) — free, a single .exe, nothing to install.
+
+SHA-256: `D21F74E833E49B9B0E4C4CFFF5BC95C246F8CD0E83E13711B4C47E17B1BC6B99`
 
 </div>
 
